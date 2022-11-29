@@ -3,7 +3,7 @@
 
 [Demo](https://emrebkts.github.io/bektas-personal-template "Demo")
 
-##Features
+## Features
 
 - Latest React.js
 - Latest tailwindcss
